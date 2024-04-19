@@ -11093,3 +11093,67 @@ Are you sure?
 [2024.04.19-05.04.20:172][ 61]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2024.04.19-05.04.20:180][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
 [2024.04.19-05.04.20:220][ 62]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2024.04.19-05.05.02:876][250]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.04.19-05.05.02:877][250]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.04.19-05.06.21:187][577]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.04.19-05.06.21:187][577]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.04.19-05.06.34:671][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2024.04.19-05.06.34:972][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.04.19-05.06.35:095][ 53]LogSavePackage: Moving '../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Saved/GymD2FE747849ABFF2BB6BCA8B22683C1D0.tmp' to '../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Content/TopDownBP/Maps(Levels)/Gym.umap'
+[2024.04.19-05.06.35:108][ 53]LogFileHelpers: Saving map 'Gym' took 0.180
+[2024.04.19-05.06.35:183][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Interactivities/SquadBar" FILE="../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Content/Assets/Interactivities/SquadBar.uasset" SILENT=true
+[2024.04.19-05.06.35:230][ 53]LogSavePackage: Moving '../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Saved/SquadBarDB81C33040553B13CDA301897BCF6145.tmp' to '../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Content/Assets/Interactivities/SquadBar.uasset'
+[2024.04.19-05.06.35:231][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SFX/Отказ" FILE="../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Content/SFX/Отказ.uasset" SILENT=true
+[2024.04.19-05.06.35:232][ 53]LogSavePackage: Moving '../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Saved/Отказ10FECACB4C183888AC2FB7B61D219B60.tmp' to '../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Content/SFX/Отказ.uasset'
+[2024.04.19-05.06.35:427][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SFX/Потом" FILE="../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Content/SFX/Потом.uasset" SILENT=true
+[2024.04.19-05.06.35:429][ 53]LogSavePackage: Moving '../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Saved/Потом5560E0D1415E0998D79A64B4BC04DFA5.tmp' to '../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Content/SFX/Потом.uasset'
+[2024.04.19-05.06.35:665][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SFX/Я_не_хочу" FILE="../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Content/SFX/Я_не_хочу.uasset" SILENT=true
+[2024.04.19-05.06.35:666][ 53]LogSavePackage: Moving '../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Saved/Я_не_хочуEFB4F2E64040AB71D898FAAECF80C838.tmp' to '../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Content/SFX/Я_не_хочу.uasset'
+[2024.04.19-05.06.35:860][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SFX/Без_еды" FILE="../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Content/SFX/Без_еды.uasset" SILENT=true
+[2024.04.19-05.06.35:861][ 53]LogSavePackage: Moving '../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Saved/Без_еды66F365EC4A7769A591435AB0EF2A19A7.tmp' to '../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Content/SFX/Без_еды.uasset'
+[2024.04.19-05.06.36:088][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SFX/Трапеза" FILE="../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Content/SFX/Трапеза.uasset" SILENT=true
+[2024.04.19-05.06.36:090][ 53]LogSavePackage: Moving '../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Saved/Трапеза34428DAD4A6405CA0F9B69B3D146ED42.tmp' to '../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Content/SFX/Трапеза.uasset'
+[2024.04.19-05.06.36:389][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SFX/Дверь-FIX" FILE="../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Content/SFX/Дверь-FIX.uasset" SILENT=true
+[2024.04.19-05.06.36:393][ 53]LogSavePackage: Moving '../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Saved/Дверь-FIX421E5CA64E2B1AB36715318F4F53C5A9.tmp' to '../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Content/SFX/Дверь-FIX.uasset'
+[2024.04.19-05.06.36:708][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SFX/Тяжёлый_вздох" FILE="../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Content/SFX/Тяжёлый_вздох.uasset" SILENT=true
+[2024.04.19-05.06.36:712][ 53]LogSavePackage: Moving '../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Saved/Тяжёлый_вздох51C91F0A468DB672A6A80796A574D95D.tmp' to '../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Content/SFX/Тяжёлый_вздох.uasset'
+[2024.04.19-05.06.37:062][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SFX/Вздох" FILE="../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Content/SFX/Вздох.uasset" SILENT=true
+[2024.04.19-05.06.37:066][ 53]LogSavePackage: Moving '../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Saved/ВздохC1D6EE6E4D3A2F946645028AAF4FAE4F.tmp' to '../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Content/SFX/Вздох.uasset'
+[2024.04.19-05.06.37:424][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SFX/Положил_гантели" FILE="../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Content/SFX/Положил_гантели.uasset" SILENT=true
+[2024.04.19-05.06.37:428][ 53]LogSavePackage: Moving '../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Saved/Положил_гантели7D7A7F0D44A01DB0C748ABB5F7F7651C.tmp' to '../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Content/SFX/Положил_гантели.uasset'
+[2024.04.19-05.06.37:814][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SFX/Не_хочу_спать" FILE="../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Content/SFX/Не_хочу_спать.uasset" SILENT=true
+[2024.04.19-05.06.37:821][ 53]LogSavePackage: Moving '../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Saved/Не_хочу_спатьC294A4394939217844204795ECE600CD.tmp' to '../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Content/SFX/Не_хочу_спать.uasset'
+[2024.04.19-05.06.38:171][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SFX/Забудь_про_эту_кнопку" FILE="../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Content/SFX/Забудь_про_эту_кнопку.uasset" SILENT=true
+[2024.04.19-05.06.38:174][ 53]LogSavePackage: Moving '../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Saved/Забудь_про_эту_кнопкуD1105DF748428BA1701133A018D31BCB.tmp' to '../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Content/SFX/Забудь_про_эту_кнопку.uasset'
+[2024.04.19-05.06.38:487][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SFX/Надо_за_учёбу_взяться" FILE="../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Content/SFX/Надо_за_учёбу_взяться.uasset" SILENT=true
+[2024.04.19-05.06.38:490][ 53]LogSavePackage: Moving '../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Saved/Надо_за_учёбу_взяться886838EA4B38F2BE39C5869C21A58A69.tmp' to '../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Content/SFX/Надо_за_учёбу_взяться.uasset'
+[2024.04.19-05.06.38:889][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SFX/Здоровый_стул" FILE="../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Content/SFX/Здоровый_стул.uasset" SILENT=true
+[2024.04.19-05.06.38:895][ 53]LogSavePackage: Moving '../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Saved/Здоровый_стул17B2919C469942BD41956B924F914602.tmp' to '../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Content/SFX/Здоровый_стул.uasset'
+[2024.04.19-05.06.39:222][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SFX/Печать_комп" FILE="../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Content/SFX/Печать_комп.uasset" SILENT=true
+[2024.04.19-05.06.39:226][ 53]LogSavePackage: Moving '../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Saved/Печать_комп80E7C63B4A0D3298960C4C94A2DED347.tmp' to '../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Content/SFX/Печать_комп.uasset'
+[2024.04.19-05.06.39:638][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SFX/РД" FILE="../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Content/SFX/РД.uasset" SILENT=true
+[2024.04.19-05.06.39:641][ 53]LogSavePackage: Moving '../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Saved/РДCDAD5E8447FDFF952C0D29AF3AC540C8.tmp' to '../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Content/SFX/РД.uasset'
+[2024.04.19-05.06.39:982][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SFX/Вот_так" FILE="../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Content/SFX/Вот_так.uasset" SILENT=true
+[2024.04.19-05.06.39:985][ 53]LogSavePackage: Moving '../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Saved/Вот_так1F5CF6D545D1484F4A902EBF10DE1FF8.tmp' to '../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Content/SFX/Вот_так.uasset'
+[2024.04.19-05.06.40:306][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SFX/Поставил_штангу" FILE="../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Content/SFX/Поставил_штангу.uasset" SILENT=true
+[2024.04.19-05.06.40:309][ 53]LogSavePackage: Moving '../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Saved/Поставил_штангу5BEDE7904B28779C105798B7CB9BC611.tmp' to '../../../../Unreal Projects/IliaZaicev-Simulator/IliaZaicevSimulator/Content/SFX/Поставил_штангу.uasset'
+[2024.04.19-05.06.40:608][ 53]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.19-05.06.40:609][ 53]LogContentValidation: Display: Validating SoundWave /Game/SFX/Здоровый_стул.Здоровый_стул
+[2024.04.19-05.06.40:609][ 53]LogContentValidation: Display: Validating SoundWave /Game/SFX/Надо_за_учёбу_взяться.Надо_за_учёбу_взяться
+[2024.04.19-05.06.40:609][ 53]LogContentValidation: Display: Validating Blueprint /Game/Assets/Interactivities/SquadBar.SquadBar
+[2024.04.19-05.06.40:609][ 53]LogContentValidation: Display: Validating SoundWave /Game/SFX/Я_не_хочу.Я_не_хочу
+[2024.04.19-05.06.40:609][ 53]LogContentValidation: Display: Validating SoundWave /Game/SFX/Потом.Потом
+[2024.04.19-05.06.40:609][ 53]LogContentValidation: Display: Validating SoundWave /Game/SFX/Отказ.Отказ
+[2024.04.19-05.06.40:609][ 53]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps(Levels)/Gym.Gym
+[2024.04.19-05.06.40:609][ 53]LogContentValidation: Display: Validating SoundWave /Game/SFX/Печать_комп.Печать_комп
+[2024.04.19-05.06.40:609][ 53]LogContentValidation: Display: Validating SoundWave /Game/SFX/Не_хочу_спать.Не_хочу_спать
+[2024.04.19-05.06.40:609][ 53]LogContentValidation: Display: Validating SoundWave /Game/SFX/Положил_гантели.Положил_гантели
+[2024.04.19-05.06.40:609][ 53]LogContentValidation: Display: Validating SoundWave /Game/SFX/Забудь_про_эту_кнопку.Забудь_про_эту_кнопку
+[2024.04.19-05.06.40:609][ 53]LogContentValidation: Display: Validating SoundWave /Game/SFX/Без_еды.Без_еды
+[2024.04.19-05.06.40:609][ 53]LogContentValidation: Display: Validating SoundWave /Game/SFX/Дверь-FIX.Дверь-FIX
+[2024.04.19-05.06.40:609][ 53]LogContentValidation: Display: Validating SoundWave /Game/SFX/Вздох.Вздох
+[2024.04.19-05.06.40:609][ 53]LogContentValidation: Display: Validating SoundWave /Game/SFX/Тяжёлый_вздох.Тяжёлый_вздох
+[2024.04.19-05.06.40:609][ 53]LogContentValidation: Display: Validating SoundWave /Game/SFX/Трапеза.Трапеза
+[2024.04.19-05.06.40:609][ 53]LogContentValidation: Display: Validating SoundWave /Game/SFX/Поставил_штангу.Поставил_штангу
+[2024.04.19-05.06.40:609][ 53]LogContentValidation: Display: Validating SoundWave /Game/SFX/Вот_так.Вот_так
+[2024.04.19-05.06.40:610][ 53]LogContentValidation: Display: Validating SoundWave /Game/SFX/РД.РД
